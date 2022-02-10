@@ -37,6 +37,20 @@ body {
   min-height: 100vh;
   text-rendering: optimizeSpeed;
   line-height: 1.5;
+  background-color: black;
+  font-family: "Poppins", sans-serif;
+  --padding: 60px;
+  --font-xs: 11px;
+  --font-sm: 14px;
+  --font-md: 18px;
+  --font-lg: 24px;
+  --font-xl: 34px;
+}
+
+@media (max-width: 800px) {
+  body {
+    --padding: 20px;
+  }
 }
 
 /* Make images easier to work with */

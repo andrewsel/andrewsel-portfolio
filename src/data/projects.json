@@ -1,0 +1,94 @@
+[
+  {
+    "name": "Future Super",
+    "desc": "Website for one of Australia's fastest growing super funds",
+    "image": "https://res.cloudinary.com/andrewsel/image/upload/f_auto,q_auto/v1644364447/future-super-website.png",
+    "tags": ["frontend", "astro", "svelte"],
+    "siteUrl": "https://www.futuresuper.com.au",
+    "githubUrl": "https://github.com/futuresuper/fs-website-2021"
+  },
+  {
+    "name": "Array",
+    "desc": "Microinvesting app allowing people to invest in renewables with as little as $5",
+    "image": "https://res.cloudinary.com/andrewsel/image/upload/f_auto,q_auto/v1644364447/array.png",
+    "tags": [
+      "frontend",
+      "backend",
+      "reactnative",
+      "react",
+      "aws",
+      "serverless"
+    ],
+    "githubUrl": "https://github.com/futuresuper/array-mobile-app"
+  },
+  {
+    "name": "Levels",
+    "desc": "Diabetes tracking and management app",
+    "image": "https://res.cloudinary.com/andrewsel/image/upload/f_auto,q_auto/v1644364447/levels.png",
+    "tags": [
+      "frontend",
+      "backend",
+      "reactnative",
+      "react",
+      "aws",
+      "serverless"
+    ],
+    "githubUrl": "https://github.com/andrewsel/levels"
+  },
+  {
+    "name": "Your Impact Wrap",
+    "desc": "Spotify-wrapped style annual impact highlights for Future Super members",
+    "image": "https://res.cloudinary.com/andrewsel/image/upload/f_auto,q_auto/v1644364447/impact_recap.png",
+    "tags": ["frontend", "astro", "svelte"],
+    "siteUrl": "https://impactrecap.futuresuper.com.au/",
+    "githubUrl": "https://github.com/futuresuper/impact-wrap-2021"
+  },
+  {
+    "name": "SmartMonday Dashboard",
+    "desc": "MySuper dashboard for the SmartMonday super fund",
+    "image": "https://res.cloudinary.com/andrewsel/image/upload/f_auto,q_auto/v1644364447/smartmonday.png",
+    "tags": ["frontend", "astro", "svelte"],
+    "siteUrl": "https://smartmonday-dashboard.netlify.app/",
+    "githubUrl": "https://github.com/futuresuper/smartmonday-dashboard"
+  },
+  {
+    "name": "Super Fund Breakup Letter",
+    "desc": "Customise and send a breakup letter to your old super fund",
+    "image": "https://res.cloudinary.com/andrewsel/image/upload/f_auto,q_auto/v1644364447/breakup_letter.png",
+    "tags": ["frontend", "gatsby", "react", "aws", "serverless"],
+    "siteUrl": "https://letter.futuresuper.com.au/",
+    "githubUrl": "https://github.com/futuresuper/breakup-letter"
+  },
+  {
+    "name": "Design Your Own Billboard Competition",
+    "desc": "Write a billboard message - winning entries became real billboards across Australia",
+    "image": "https://res.cloudinary.com/andrewsel/image/upload/f_auto,q_auto/v1644364447/billboard.png",
+    "tags": ["frontend", "sveltekit", "svelte", "aws", "serverless"],
+    "siteUrl": "https://billboard.futuresuper.com.au/",
+    "githubUrl": "https://github.com/futuresuper/billboard-message"
+  },
+  {
+    "name": "Create A Climate Tile",
+    "desc": "Design and share your own social media tile with a climate message",
+    "image": "https://res.cloudinary.com/andrewsel/image/upload/f_auto,q_auto/v1644364447/not_mute_on_climate.png",
+    "tags": ["frontend", "sveltekit", "svelte", "aws", "serverless"],
+    "siteUrl": "https://www.notmuteonclimate.com.au/",
+    "githubUrl": "https://github.com/futuresuper/cop26"
+  },
+  {
+    "name": "Fossil Fuel Tracker",
+    "desc": "Highlights the amount the Australian goverment has spent supsidising fossil fuels",
+    "image": "https://res.cloudinary.com/andrewsel/image/upload/f_auto,q_auto/v1644364447/ticker.png",
+    "tags": ["frontend", "astro", "svelte"],
+    "siteUrl": "https://fossilfuelsperminute.com/",
+    "githubUrl": "https://github.com/futuresuper/ticker"
+  },
+  {
+    "name": "Ethical Match Quiz",
+    "desc": "Do your ethics match those of an ethical super fund?",
+    "image": "https://res.cloudinary.com/andrewsel/image/upload/f_auto,q_auto/v1644364447/quiz.png",
+    "tags": ["frontend", "gatsby", "react"],
+    "siteUrl": "https://www.q.futuresuper.com.au/",
+    "githubUrl": "https://github.com/futuresuper/quiz-lps/"
+  }
+]
